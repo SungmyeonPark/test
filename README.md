@@ -60,6 +60,7 @@ python main.py
 
 # Key Files:
 •	data_processing.py: Handles the data scraping and loading for city metrics like Walk Score, Crime Index, and House Values.
+
 •	graph_maker.py: Contains the functions responsible for generating pie charts, bar charts, and house value trend charts.
 
 # Workflow
